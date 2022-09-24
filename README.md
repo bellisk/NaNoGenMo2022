@@ -23,4 +23,4 @@ Code to generate a book of at least 50,000 words.
 - https://modao-zushi.fandom.com/wiki/Category:Items
 - https://modao-zushi.fandom.com/wiki/Category:Creatures
 - https://en.wikipedia.org/wiki/List_of_Hanfu
-- 
+- https://bond-lab.github.io/cow/
